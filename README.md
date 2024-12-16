@@ -3,7 +3,7 @@
 
 **Estudante de ADS em constante aprendizado.**
 
-Com 24 anos, estou no início da minha jornada como desenvolvedor. Sou apaixonado por aprender novas tecnologias e construir soluções inovadoras.
+Com 25 anos, estou no início da minha jornada como desenvolvedor. Sou apaixonado por aprender novas tecnologias e construir soluções inovadoras.
 Atualmente estou no primereiro periodo de Analise de Desenvolvimento de Sistemas, no campus do IFTM.
 
 ### TECNOLOGIAS QUE EU USO NO MEU DIA 
