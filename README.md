@@ -26,7 +26,7 @@ Atualmente estou no primereiro periodo de Analise de Desenvolvimento de Sistemas
 ## ULTIMOS PROJETOS:
 - [JOGO DA VELHA](https://github.com/higorrhuan/Jogo-da-Velha)<br/>
 - [LOCADORA DVD](https://github.com/higorrhuan/Locadora-DVD)<br/>
-- [TAMAGOCHI](https://github.com/higorrhuan/TAMAGOCHI).<br/>
+- [TAMAGOCHI](https://github.com/higorrhuan/TAMAGOCHI)<br/>
 
 
 **Minhas metas:**
